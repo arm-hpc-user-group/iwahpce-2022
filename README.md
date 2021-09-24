@@ -1,22 +1,5 @@
 # IWAHPCE-2022 - International workshop on Arm-based HPC: practice and Experience
 
-# Registration
-
-TBD
-
-## Event agenda
-
-TBD
-
-### Agenda 
-
-TBD
-
-## Paper Submissions 
-
-Submissions via EasyChair [EAHPC-2021](https://easychair.org/conferences/?conf=eahpc2021).~~
-
-To be hosted as part of the [HPC-Asia 2022]() conference.
 
 ### Abstract
 The objective of this workshop is to provide the opportunity to share the practice and experience about the high performance computing systems using the Arm architecture, and their performance and applications. 
@@ -41,6 +24,11 @@ This workshop is the is a proceedings-based workshop that is closely related to 
 ## Submission
 
 TBD
+## Paper Submissions 
+
+<!-- Submissions via EasyChair [EAHPC-2021](https://easychair.org/conferences/?conf=eahpc2021).~~ -->
+
+To be hosted as part of the [HPC-Asia 2022]() conference.
 
 ### Dates
 
@@ -56,9 +44,14 @@ TBD
 
 * Prof. Mitsuhisa Sato (RIKEN)
 
+## Event agenda
+
+TBD
+
+### Agenda 
+
+TBD
 ## Program Committee
-
-
 
 ### Contact
 Mitsuhisa Sato (msato@riken.jp)
