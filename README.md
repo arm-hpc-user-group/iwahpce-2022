@@ -42,8 +42,7 @@ All accepted papers will be published as a part of HPCAsia 2020 proceedings by A
 - Final camera-ready paper submission due: November 21, 2021
 
 ### Submission site
-The submission site will open in mid-October.
-<!-- Submissions via EasyChair [EAHPC-2021](https://easychair.org/conferences/?conf=eahpc2021).~~ -->
+Submissions via EasyChair [IWAHPCE-2022](https://easychair.org/conferences/?conf=iwahpce22).
 
 ### Organizers and Program Committee
 Organizer and Workshop Chair
