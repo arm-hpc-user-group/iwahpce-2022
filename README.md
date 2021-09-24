@@ -45,12 +45,12 @@ The submission site will open in mid-October.
 
 ### Organizers and Program Committee
 - Organizer and Workshop Chair
- - Mitsuhisa Sato, RIKEN R-CCS
+  - Mitsuhisa Sato, RIKEN R-CCS
 
 - Program Committee
- - Jeffrey Young (Georgia Tech)
- - Christelle Piechurski (GENCI)
- - Stephen Poole (Los Alamos National Laboratory)
- - Valerio Schiavoni (University of Neuschatel)
- - Michèle Weiland (Edinburgh Parallel Computing Centre)
+  - Jeffrey Young (Georgia Tech)
+  - Christelle Piechurski (GENCI)
+  - Stephen Poole (Los Alamos National Laboratory)
+  - Valerio Schiavoni (University of Neuschatel)
+  - Michèle Weiland (Edinburgh Parallel Computing Centre)
 
