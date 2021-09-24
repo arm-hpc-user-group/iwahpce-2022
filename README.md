@@ -1,4 +1,9 @@
-# IWAHPCE-2022 - International Workshop on Arm-based HPC: Practice and Experience
+#  International Workshop on Arm-based HPC: Practice and Experience (IWAHPCE-2022)
+
+<!-- IWAHPCE-2022: https://arm-hpc-user-group.github.io/iwahpce-2022/ -->
+to be held in conjunction with
+The International Conference on High Performance Computing
+in Asia-Pacific Region ([HPC Asia 2022](http://sighpc.ipsj.or.jp/HPCAsia2022/)), Kobe, Japan, Jan 12-14, 2022 
 
 ### Workshop Overview
 The objective of this workshop is to provide the opportunity to share the practice and experience about the high performance computing systems using the Arm architecture, and their performance and applications. 
