@@ -11,7 +11,7 @@ Sharing practices and experiences of using these Arm-based processors will contr
 
 In this workshop, we invite papers on the practice and experience on the Arm-based high performance computing systems and on optimization and performance analysis of high-performance workloads for this new generation of Arm-based processors. We welcome performance studies either through access to real hardware or via simulation/emulation frameworks.
 
-This workshop is the is a proceedings-based workshop that is closely related to the series of workshops organized at ISC, SC and the Arm Research Summit by groups like the [Arm HPC User Group (AHUG)](https://a-hug.org/).
+This workshop is a proceedings-based workshop that is closely related to the series of workshops organized at ISC, SC and the Arm Research Summit by groups like the [Arm HPC User Group (AHUG)](https://a-hug.org/).
 
 ### Topics
 In particular, this workshop will focus on the following topics of interest:
