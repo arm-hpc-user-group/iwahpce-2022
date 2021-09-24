@@ -26,12 +26,12 @@ In particular, we will focus on the following topics of interest, but not limite
 - Regular paper: up to 18 pages (in ACM submission format)
 - Short paper: 7-8 pages (in ACM submission format)
 
-Authors are invited to submit regular papers of at most 18 pages, or short paper of at least 7 pages (to 8 pages), in the same PDF format described in “Paper Submission” of HPCAsia 2022 website. The page count of the new ACM format includes figures and references, formatted according to the ACM Proceedings Style (http://www.acm.org/publications/proceedings-template). Submitted papers must contain original work that has not appeared in and is not under consideration for another conference or journal. Note that all authors should submit manuscripts for review in a single column format.
+Authors are invited to submit regular papers of at most 18 pages, or short paper of at least 7 pages (to 8 pages), in the same PDF format described in "Paper Submission" of [HPCAsia 2022 website](http://sighpc.ipsj.or.jp/HPCAsia2022/). The page count of the new ACM format includes figures and references, formatted according to the [ACM Proceedings Style](http://www.acm.org/publications/proceedings-template). Submitted papers must contain original work that has not appeared in and is not under consideration for another conference or journal. Note that all authors should submit manuscripts for review in a single column format.
 
 The submission will be pear-reviewed by the PC members.
 The papers will be accepted to presentations in a half-day workshop.
 
-###x Publication
+### Publication
 All accepted papers will be published as a part of HPCAsia 2020 proceedings by ACM, and included in ACM digital library if presented at the conference.
 
 ### Important dates]
@@ -45,12 +45,12 @@ The submission site will open in mid-October.
 
 ### Organizers and Program Committee
 - Organizer and Workshop Chair
--- Mitsuhisa Sato, RIKEN R-CCS
+ - Mitsuhisa Sato, RIKEN R-CCS
 
 - Program Committee
--- Jeffrey Young (Georgia Tech)
--- Christelle Piechurski (GENCI)
--- Stephen Poole (Los Alamos National Laboratory)
--- Valerio Schiavoni (University of Neuschatel)
--- Michèle Weiland (Edinburgh Parallel Computing Centre)
+ - Jeffrey Young (Georgia Tech)
+ - Christelle Piechurski (GENCI)
+ - Stephen Poole (Los Alamos National Laboratory)
+ - Valerio Schiavoni (University of Neuschatel)
+ - Michèle Weiland (Edinburgh Parallel Computing Centre)
 
