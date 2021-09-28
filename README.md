@@ -16,7 +16,7 @@ This workshop is a proceedings-based workshop that is closely related to the ser
 ### Topics
 In particular, this workshop will focus on the following topics of interest:
 
-- HPC Applications of Arm-based systems
+- HPC Applications on Arm-based systems
 - Performance Analysis, Performance Modeling & Measurement of Arm-based systems
 - SVE Vectorisation analysis
 - Programming Models & Systems Software related to Arm-based systems
