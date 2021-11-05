@@ -3,6 +3,9 @@
 <!-- IWAHPCE-2022: https://arm-hpc-user-group.github.io/iwahpce-2022/ -->
 to be held in conjunction with The International Conference on High Performance Computing in Asia-Pacific Region ([HPC Asia 2022](http://sighpc.ipsj.or.jp/HPCAsia2022/)), Kobe, Japan, Jan 12-14, 2022 
 
+** The deadline of the submission is extended to November 15, 2021 **
+** We are accepting short paper submissions for on-going works! ***
+
 ### Workshop Overview
 The objective of this workshop is to provide the opportunity to share practices and experiences about high-performance Arm computing systems and their performance and applications. 
 
@@ -37,9 +40,9 @@ All submissions will be peer-reviewed by the PC members. Papers will be accepted
 All accepted papers will be published as a part of HPCAsia 2020 proceedings by ACM and will be included in the ACM digital library if presented at the conference.
 
 ### Important dates
-- Paper submission due: October 31, 2021
-- Paper notification: November 14, 2021
-- Final camera-ready paper submission due: November 21, 2021
+- Paper submission due: ~~October 31, 2021~~ November 15, 2021 (extended)
+- Paper notification: ~~November 14, 2021~~ November 22, 2021
+- Final camera-ready paper submission due: ~~November 21, 2021~~ November 29, 2021
 
 ### Submission site
 Submissions via EasyChair [IWAHPCE-2022](https://easychair.org/conferences/?conf=iwahpce22).
