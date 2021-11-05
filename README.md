@@ -3,9 +3,9 @@
 <!-- IWAHPCE-2022: https://arm-hpc-user-group.github.io/iwahpce-2022/ -->
 to be held in conjunction with The International Conference on High Performance Computing in Asia-Pacific Region ([HPC Asia 2022](http://sighpc.ipsj.or.jp/HPCAsia2022/)), Kobe, Japan, Jan 12-14, 2022 
 
-<span style="color: red; "> <strong>
-The deadline of the submission is extended to November 15, 2021 ** <br>
-We are accepting short paper submissions for on-going works! ***
+<span style="font-size: 120%; color: red;"> <strong>
+The deadline of the submission is extended to November 15, 2021 <br>
+We are accepting short paper submissions for on-going works!
 </strong> </span>
 
 ### Workshop Overview
