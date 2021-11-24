@@ -43,8 +43,8 @@ All accepted papers will be published as a part of HPCAsia 2020 proceedings by A
 
 ### Important dates
 - Paper submission due: ~~October 31, 2021~~ November 15, 2021 (extended)
-- Paper notification: ~~November 14, 2021~~ November 22, 2021
-- Final camera-ready paper submission due: ~~November 21, 2021~~ November 29, 2021
+- Paper notification: ~~November 14, 2021~~ November 29, 2021
+- Final camera-ready paper submission due: ~~November 21, 2021~~ December 6, 2021
 
 ### Submission site
 Submissions via EasyChair [IWAHPCE-2022](https://easychair.org/conferences/?conf=iwahpce22).
