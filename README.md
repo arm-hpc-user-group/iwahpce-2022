@@ -5,32 +5,32 @@ to be held in conjunction with The International Conference on High Performance 
 
 <span style="font-size: 120%; color: red;"> <strong>
 The workshop program is uploaded!
-The workshop will be held from 15:00-17:30 
+The workshop will be held from 15:00 to 17:30 JST  (7:00-9:30 CET , 1:00-3:30 EST) on 14th (Fri), Jan 2022.
 </strong> </span>
 
 ### Advance Program
 
 - 15:00-15:05 Welcome (Mitsuhisa Sato)
 
-- 15:05-15:35
- - "Performance tuning of the Helmholtz matrix-vector product kernel in the computational fluid dynamics solver Nek5000/RS for the A64FX processor"
- - Miwako Tsuji, Misun Min, Stefan Kerkemeier, Paul Fischer, Elia Merzari and Mitsuhisa Sato.
+- 15:05-15:35 JST (7:05-7:35 CET, 1:05-1:35 EST)
+  - "Performance tuning of the Helmholtz matrix-vector product kernel in the computational fluid dynamics solver Nek5000/RS for the A64FX processor"
+    - Miwako Tsuji, Misun Min, Stefan Kerkemeier, Paul Fischer, Elia Merzari and Mitsuhisa Sato.
 
-- 15:35-16:05
- - "Communication-Computation Overlapping for Preconditioned Parallel Iterative Solvers with Dynamic Loop Scheduling"
- - Kengo Nakajima, Balazs Gerofi, Masashi Horikoshi and Yutaka Ishikawa.
+- 15:35-16:05 (7:35-8:05 CET, 1:35-2:05 EST)
+  - "Communication-Computation Overlapping for Preconditioned Parallel Iterative Solvers with Dynamic Loop Scheduling"
+    - Kengo Nakajima, Balazs Gerofi, Masashi Horikoshi and Yutaka Ishikawa.
 
-- 16:05-16:35
- - "Simple code adaptation to speed-up Smilei on the ARM-based Fujitsu A64FX processor"
- - Mathieu Lobet, Francesco Massimo, Arnaud Beck, Guillaume Bouchard, Frederic Perez, Tommaso Vinci and Mickael Grech.
+- 16:05-16:35 (8:05-8:35 CET, 2:05-2:35 EST)
+  - "Simple code adaptation to speed-up Smilei on the ARM-based Fujitsu A64FX processor"
+    - Mathieu Lobet, Francesco Massimo, Arnaud Beck, Guillaume Bouchard, Frederic Perez, Tommaso Vinci and Mickael Grech.
 
-- 16:35-17:00
- - "Experiences with Porting the FLASH Code to Ookami, an HPE Apollo 80 A64FX Platform"
- - Catherine Feldman, Benjamin Michalowicz, Eva Siegmann, Tony Curtis, Alan Calder and Robert Harrison.
+- 16:35-17:00 (8:35-9:05 CET, 2:35-3:05 EST)
+  - "Experiences with Porting the FLASH Code to Ookami, an HPE Apollo 80 A64FX Platform"
+    - Catherine Feldman, Benjamin Michalowicz, Eva Siegmann, Tony Curtis, Alan Calder and Robert Harrison.
 
-- 17:00-17:25
- - "Onboarding Users to A64FX via Open OnDemand"
- - Aaron Jezghani, Kevin Manalo, Will Powell, Jeffrey Valdez and Jeffrey Young.
+- 17:00-17:25 (9:00-9:25 CET, 3:00-3:25 EST)
+  - "Onboarding Users to A64FX via Open OnDemand"
+    - Aaron Jezghani, Kevin Manalo, Will Powell, Jeffrey Valdez and Jeffrey Young.
 
 - 17:25-17:30 Closing
 
